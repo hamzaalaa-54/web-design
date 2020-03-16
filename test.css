@@ -1,0 +1,149 @@
+@font-face
+{
+    font-family:graf;
+    src:url('fonts/Next Custom.ttf')  
+}
+@font-face
+{
+    font-family:style;
+    src:url('fonts/DOCALLISME ON STREET.ttf')  
+}
+
+img
+{
+    width: 180px;
+    height:200px;
+    
+}
+body
+{
+    margin:0;
+    padding:0;
+    overflow: auto;
+     
+    
+}   
+.header
+{
+    background:#DDD;
+    height:15px; 
+    color:#800000;
+    font-size:20px;
+    text-align:left;
+    padding:30px 0;
+    font-family:graf;
+    
+   
+}
+ul
+{
+    text-align:right;
+    list-style:none;
+    margin: 10px;
+    position: absolute;
+    top:8px;
+    right:30px;
+}
+ul li
+{
+    display:inline-block;
+    margin:10px;
+    font-size:25px;
+    font-weight: bold;
+   
+}
+.header h3
+{
+    margin-top: -70px;
+    margin-left: 40px;
+}
+input
+{
+    margin: 10px;
+    width:450px;
+    height:35px;
+    position:absolute;
+    top:22px;
+    left:250px;
+    font-weight:bold;
+     color: #515151;
+}
+.image img
+{
+    width:100px;
+}
+.lol
+{
+    width:30px;
+    height: 50px;
+    
+}
+.pic2
+{
+    width:200px;
+    position: absolute;
+    right:90px;
+    top:130px
+}
+.prag
+{
+    
+    width:600px;
+    margin: 50px;
+    font-size: 25px;
+    font-family:   serif;
+    position: absolute;
+    top:100px
+}
+.phid
+{
+    position: absolute;
+    left: 50px;
+    margin: 20px;
+    font-weight:bolder;
+   
+}
+.pp2
+{
+    position: absolute;
+    bottom:170px;
+    left: 80px;
+    
+}
+span
+{
+    position: absolute;
+    bottom:-150px;
+    
+    margin-left:370px;
+    font-family:style;
+    font-size: 60px
+}
+.imgee
+{
+ position: absolute; 
+ bottom:-290px;
+ right:150px;
+ 
+}
+.imgee1
+{
+ position: absolute;
+ left: 150px;
+ bottom:-288px;
+
+ 
+}
+.imgee2
+{
+ position: absolute;
+ left:480px;
+ bottom:-280px;
+}
+.xx
+{
+    font-size: 25px;
+    color:#3f3f3f;
+  
+}
+
